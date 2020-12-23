@@ -78,7 +78,8 @@
 	color: white;
 	font-size: 19px;
 	border: 0;
-	background-color: rgb(4, 90, 248);
+	cursor: pointer;
+	background-color: #3B4698;
 }
 .footer{
 	text-align: center;
